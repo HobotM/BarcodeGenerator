@@ -20,5 +20,5 @@ A simple barcode generator built with .NET Core and C#. This console application
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/BarcodeGenerator.git
+   git clone https://github.com/HobotM/BarcodeGenerator.git
    cd BarcodeGenerator
